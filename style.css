@@ -1,0 +1,1356 @@
+*{
+    margin: 0px;
+    border: 0px;
+}
+#div1{
+    width: 1510px;
+    height: 721.6px;
+    position: absolute;
+}
+#horizontal{
+    width: 1510px;
+    height: 80px;
+    display: flex;
+    position: fixed;
+    z-index: 10;
+    background-color: white;
+}
+.logo{
+    height: 45.96px;
+    width: 400px;
+    position: absolute;
+    margin-left: 30px;
+}
+.title1{
+    max-width: 50%;
+    height: auto;
+    margin-top: 20px;
+}
+.search{
+    height: 80px;
+    width: 400px;
+    position: absolute;
+    margin-left: 260px;
+}
+.title2{
+    border: solid rgb(171,171,171) 1px;
+    height: 40px;
+    width: 400px;
+    color: rgb(237,236,241);
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.wordsearch{
+    color: rgb(111,111,111);
+    position: relative;
+    right: 80px;
+}
+.glass{
+    position: relative;
+    right: 30px;
+}
+.list{
+    height: 80px;
+    width: 600px;
+    position: absolute;
+    margin-left: 740px;
+}
+.title3{
+    background-color: white;
+    color: rgb(111,111,111);
+    margin-top: 30px;
+    width: 80px;
+}
+.title4{
+    background-color: white;
+    color: rgb(111,111,111);
+    margin-top: 30px;
+    width: 80px;
+}
+.title5{
+    background-color: white;
+    color: rgb(111,111,111);
+    margin-top: 30px;
+    width: 100px;
+}
+.title6{
+    background-color: white;
+    color: rgb(111,111,111);
+    margin-top: 30px;
+    width: 100px;
+}
+.account{
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    margin-left: 1440px;
+}
+.title7{
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+}
+#vertical{
+    margin-top: 75px;
+    background-color: white;
+    position: fixed;
+    display: flex;
+    z-index: 10;
+    width: 240px;
+}
+.choice{
+    height: 400px;
+    width: 250px;
+}
+.app1{
+    height: 40px;
+    background-color: white;
+    display: block;
+    color: rgb(111,111,111);
+    font-size: 18px;
+    position: relative;
+    left: 20px
+}
+.app2{
+    height: 40px;
+    background-color: white;
+    display: block;
+    color: rgb(111,111,111);
+    font-size: 17px;
+    position: relative;
+    left: 12px
+}
+.app3{
+    height: 40px;
+    background-color: white;
+    display: block;
+    color: rgb(111,111,111);
+    font-size: 17px;
+    position: relative;
+    left: 12px
+}
+.app4{
+    height: 40px;
+    background-color: white;
+    display: block;
+    color: rgb(111,111,111);
+    font-size: 17px;
+    position: relative;
+    left:12px
+}
+.app5{
+    height: 40px;
+    background-color: white;
+    display: block;
+    color: rgb(111,111,111);
+    font-size: 17px;
+    position: relative;
+    left: 12px
+}
+.app6{
+    height: 40px;
+    background-color: white;
+    display: block;
+    color: rgb(111,111,111);
+    font-size: 17px;
+    position: relative;
+    left: 12px
+}
+.app7{
+    height: 40px;
+    background-color: white;
+    display: block;
+    color: rgb(111,111,111);
+    font-size: 17px;
+    position: relative;
+    left: 12px
+}
+.app8{
+    height: 40px;
+    background-color: white;
+    display: block;
+    color: rgb(111,111,111);
+    font-size: 18px;
+    position: relative;
+    left: 12px
+}
+li{
+    color: rgb(111,111,111);
+    position: relative;
+    left: 20px
+}
+.app9{
+    height: 300px;
+    width: 200px;
+    object-fit: cover;
+    position: relative;
+    left: 25px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px  rgb(234, 233, 233);
+}
+.icon2{
+    position: relative;
+    left: 15px;
+}
+.icon1{
+    position: relative;
+    left: 10px;
+}
+.fold1{
+    position: relative;
+    left: 20px;
+}
+.fold2{
+    position: relative;
+    left: 25px;
+}
+#div2{
+    position: absolute;
+    height: 3060px;
+    width: 1260px;
+    margin-left: 258px;
+    margin-top: 90px;
+    border-radius: 10px;
+    background-color: white
+}
+.tab1{
+    position:absolute;
+    height: 260px;
+    width: 800px;
+    background-color: rgb(116,113,223);
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.tab11{
+    color: white;
+    width: 400px;
+    margin-left: 30px;
+    position: relative;
+    top: 15px;
+}
+.tab12{
+    color: white;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.tab13{
+    position: relative;
+    left: 500px;
+    bottom: 140px;
+}
+.tab14{
+    border-radius: 50%;
+    margin-bottom: 150px;
+    background-color: white;
+    fill: none;
+}
+.tab15{
+    border-radius: 50%;
+    margin-bottom: 150px;
+    fill: none;
+    background-color: rgb(223,222,244);
+}
+.tab2{
+    position:absolute;
+    height: 260px;
+    width: 380px;
+    background-color: rgb(254,207,209);
+    border-radius: 10px;
+    margin-left: 840px;
+    margin-top: 20px;
+}
+.tab21{
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.tab22{
+    color: rgb(90,105,229);
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.tab23{
+    position: relative;
+    left: 190px;
+    bottom: 90px;
+}
+.tab3{
+    height: 50px;
+    width: 1260px;
+    position: absolute;
+    margin-top: 300px;
+}
+.tab31{
+    margin-left: 30px;
+    color: rgb(36,44,81);
+    width: 500px;
+}
+.tab32{
+    position: relative;
+    bottom: 25px;
+    left: 1170px;
+    width: 80px;
+    color: rgb(94,110,232);
+}
+.tab4{
+    position: absolute;
+    margin-top: 380px;
+    height: 400px;
+    width: 1260px;
+}
+.list11{
+    border-radius: 10px;
+    margin-left: 20px;
+    width: 1200px;
+    height: 360px;
+    background-color: white;
+    position: absolute;
+}
+.tab40{
+    height: 130px;
+    width: 400px;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.tab41{
+    position: absolute;
+    height: 70px;
+    width: 70px;
+}
+.tab42{
+    position: absolute;
+    margin-left: 100px;
+    width: 190px;
+}
+.tab43{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 45px;
+}
+.tab44{
+    position: absolute;
+    margin-left: 320px;
+}
+.tab45{
+    position: absolute;
+    margin-left: 320px;
+    margin-top: 30px;
+}
+.tab46{
+    height: 130px;
+    width: 400px;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 20px;
+}
+.tab47{
+    position: absolute;
+    height: 70px;
+    width: 70px;
+}
+.tab48{
+    position: absolute;
+    margin-left: 100px;
+    width: 190px;
+}
+.tab49{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 45px;
+}
+.tab411{
+    position: absolute;
+    margin-left: 320px;
+}
+.tab412{
+    position: absolute;
+    margin-left: 320px;
+    margin-top: 30px;
+}
+.tab418{
+    height: 130px;
+    width: 400px;
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 20px;
+}
+.tab413{
+    position: absolute;
+    height: 70px;
+    width: 70px;
+}
+.tab414{
+    position: absolute;
+    margin-left: 100px;
+    width: 190px;
+}
+.tab415{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.tab416{
+    position: absolute;
+    margin-left: 320px;
+}
+.tab417{
+    position: absolute;
+    margin-left: 320px;
+    margin-top: 30px;
+} 
+.tab419{
+    height: 130px;
+    width: 400px;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 440px;
+}
+.tab420{
+    position: absolute;
+    height: 70px;
+    width: 70px;
+}
+.tab421{
+    position: absolute;
+    margin-left: 100px;
+    width: 190px;
+}
+.tab422{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.tab423{
+    position: absolute;
+    margin-left: 320px;
+}
+.tab424{
+    position: absolute;
+    margin-left: 320px;
+    margin-top: 30px;
+} 
+.tab425{
+    height: 130px;
+    width: 400px;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 440px;
+}
+.tab426{
+    position: absolute;
+    height: 70px;
+    width: 70px;
+}
+.tab427{
+    position: absolute;
+    margin-left: 100px;
+    width: 190px;
+}
+.tab428{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.tab429{
+    position: absolute;
+    margin-left: 320px;
+}
+.tab430{
+    position: absolute;
+    margin-left: 320px;
+    margin-top: 30px;
+} 
+.tab431{
+    height: 130px;
+    width: 400px;
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 440px;
+}
+.tab432{
+    position: absolute;
+    height: 70px;
+    width: 70px;
+}
+.tab433{
+    position: absolute;
+    margin-left: 100px;
+    width: 190px;
+}
+.tab434{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.tab435{
+    position: absolute;
+    margin-left: 320px;
+}
+.tab436{
+    position: absolute;
+    margin-left: 320px;
+    margin-top: 30px;
+}
+.tab437{
+    height: 130px;
+    width: 400px;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 840px;
+}
+.tab438{
+    position: absolute;
+    height: 70px;
+    width: 70px;
+}
+.tab439{
+    position: absolute;
+    margin-left: 100px;
+    width: 190px;
+}
+.tab440{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.tab441{
+    position: absolute;
+    margin-left: 320px;
+}
+.tab442{
+    position: absolute;
+    margin-left: 320px;
+    margin-top: 30px;
+} 
+.tab443{
+    height: 130px;
+    width: 400px;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 840px;
+}
+.tab444{
+    position: absolute;
+    height: 70px;
+    width: 70px;
+}
+.tab445{
+    position: absolute;
+    margin-left: 100px;
+    width: 190px;
+}
+.tab446{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.tab447{
+    position: absolute;
+    margin-left: 320px;
+}
+.tab448{
+    position: absolute;
+    margin-left: 320px;
+    margin-top: 30px;
+} 
+.tab449{
+    height: 130px;
+    width: 400px;
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 840px;
+}
+.tab450{
+    position: absolute;
+    height: 70px;
+    width: 70px;
+}
+.tab451{
+    position: absolute;
+    margin-left: 100px;
+    width: 190px;
+}
+.tab452{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.tab453{
+    position: absolute;
+    margin-left: 320px;
+}
+.tab454{
+    position: absolute;
+    margin-left: 320px;
+    margin-top: 30px;
+} 
+#tab5{
+    position: absolute;
+    margin-top: 780px;
+    height: 60px;
+    width: 1260px;
+}
+.tab51{
+    position: absolute;
+    width: 300px;
+    margin-left: 30px;
+}
+.tab52{
+    position: absolute;
+    width: 100px;
+    margin-left: 600px;
+}
+.tab53{
+    position: absolute;
+    width: 400px;
+    margin-left: 680px;
+}
+.tab54{
+    position: absolute;
+    width: 100px;
+    margin-left: 1160px;
+}
+#tab6{
+    width: 300px;
+    position: absolute;
+    margin-top: 860px;
+    margin-left: 40px;
+    background-color: white;
+    border-radius: 10px;
+}
+.tab60{
+    height:80px;
+    background-color: rgb(229,232,248);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.tab61{
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    margin-top: 5px;
+}
+.tab62{
+    position: absolute;
+    margin-left: 200px;
+    width: 60px;
+    margin-top: 20px;
+}
+.tab63{
+    position: absolute;
+    margin-left: 200px;
+    width: 60px;
+    margin-top: 50px;
+}
+.tab64{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.tab65{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.tab66{
+    margin-left: 10px;
+    margin-top: 40px;
+}
+.tab67{
+    margin-left: 10px;
+    position: absolute;
+    margin-top: 10px;
+}
+.tab68{
+    position: relative;
+    left: 200px;
+    bottom: 16px;
+}
+.tab69{
+    position: relative;
+    left: 200px;
+    bottom: 3px;
+}
+#tab7{
+    width: 300px;
+    position: absolute;
+    margin-top: 860px;
+    margin-left: 360px;
+    background-color: white;
+    border-radius: 10px;
+}
+.tab70{
+    height:80px;
+    background-color: rgb(229,232,248);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.tab71{
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    margin-top: 5px;
+}
+.tab72{
+    position: absolute;
+    margin-left: 200px;
+    width: 60px;
+    margin-top: 20px;
+}
+.tab73{
+    position: absolute;
+    margin-left: 200px;
+    width: 60px;
+    margin-top: 50px;
+}
+.tab74{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.tab75{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.tab76{
+    margin-left: 10px;
+    margin-top: 40px;
+}
+.tab77{
+    margin-left: 10px;
+    position: absolute;
+    margin-top: 10px;
+}
+.tab78{
+    position: relative;
+    left: 200px;
+    bottom: 16px;
+}
+.tab79{
+    position: relative;
+    left: 200px;
+    bottom: 3px;
+}
+#tab8{
+    width: 300px;
+    position: absolute;
+    margin-top: 1160px;
+    margin-left: 40px;
+    background-color: white;
+    border-radius: 10px;
+}
+.tab80{
+    height:80px;
+    background-color: rgb(229,232,248);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.tab81{
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    margin-top: 5px;
+}
+.tab82{
+    position: absolute;
+    margin-left: 200px;
+    width: 60px;
+    margin-top: 20px;
+}
+.tab83{
+    position: absolute;
+    margin-left: 200px;
+    width: 60px;
+    margin-top: 50px;
+}
+.tab84{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.tab85{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.tab86{
+    margin-left: 10px;
+    margin-top: 40px;
+}
+.tab87{
+    margin-left: 10px;
+    position: absolute;
+    margin-top: 10px;
+}
+.tab88{
+    position: relative;
+    left: 200px;
+    bottom: 16px;
+}
+.tab89{
+    position: relative;
+    left: 200px;
+    bottom: 3px;
+}
+#tab9{
+    width: 300px;
+    position: absolute;
+    margin-top: 1160px;
+    margin-left: 360px;
+    background-color: white;
+    border-radius: 10px;
+}
+.tab90{
+    height:80px;
+    background-color: rgb(229,232,248);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.tab91{
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    margin-top: 5px;
+}
+.tab92{
+    position: absolute;
+    margin-left: 200px;
+    width: 60px;
+    margin-top: 20px;
+}
+.tab93{
+    position: absolute;
+    margin-left: 200px;
+    width: 60px;
+    margin-top: 50px;
+}
+.tab94{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.tab95{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.tab96{
+    margin-left: 10px;
+    margin-top: 40px;
+}
+.tab97{
+    margin-left: 10px;
+    position: absolute;
+    margin-top: 10px;
+}
+.tab98{
+    position: relative;
+    left: 200px;
+    bottom: 16px;
+}
+.tab99{
+    position: relative;
+    left: 200px;
+    bottom: 3px;
+}
+#tab10{
+    position: absolute;
+    height: 232.4px;
+    width: 560px;
+    border-radius: 10px;
+    margin-top: 860px;
+    margin-left: 680px;
+    background-color: rgb(255,236,135);
+}
+.tab101{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 280px;
+    max-width: 50%;
+    height: auto;
+}
+.tab102{
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 20px;
+}
+.tab103{
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 20px;
+}
+#tab11{
+    position: absolute;
+    margin-top: 1100px;
+    margin-left: 900px;
+    height: 300px;
+    width:360px 
+}
+.tab110{
+    position: relative;
+    width: 200px;
+    right: 210px;
+    top: 40px;
+}
+.tab111{
+    position: absolute;
+    width: 300px;
+}
+.tab112{
+    position: absolute;
+    margin-left: 500px;
+    width: 60px;
+    margin-top: 10px;
+}
+.tab113{
+    position: absolute;
+    margin-top: 100px;
+}
+.tab114{
+    height: 70px;
+    width: 70px;
+    position: relative;
+    right: 210px;
+    top: 10px;
+}
+.tab115{
+    position: relative;
+    bottom:60px;
+    right: 100px;
+}
+.tab116{
+    position: relative;
+    bottom:50px ;
+    right: 100px;
+}
+.tab117{
+    position: relative;
+    left:270px;
+    bottom: 100px;
+}
+.tab118{
+    position: relative;
+    left: 270px;
+    bottom:80px;
+    width: 60px;
+}
+.tab119{
+    position: absolute;
+    margin-top: 212px;
+}
+.tab120{
+    height: 70px;
+    width: 70px;
+    position: relative;
+    right: 210px;
+    top: 10px;
+}
+.tab121{
+    position: relative;
+    bottom:60px;
+    right: 100px;
+}
+.tab122{
+    position: relative;
+    bottom:50px ;
+    right: 100px;
+}
+.tab123{
+    position: relative;
+    left:270px;
+    bottom: 100px;
+}
+.tab124{
+    position: relative;
+    left: 270px;
+    bottom:80px;
+    width: 60px;
+}
+#tab12{
+    position: absolute;
+    height: 60px;
+    width: 1260px;
+    margin-top: 1450px;
+}
+.tab1200{
+    position: absolute;
+    margin-left: 40px;
+}
+.tab1210{
+    position: absolute;
+    margin-left: 1180px;
+}
+#tab13{
+    height:300px ;
+    width: 400px;
+    position: absolute;
+    margin-top: 1500px;
+}
+.tab130{
+    position: absolute;
+    margin-left: 60px;
+    border-radius: 10px;
+}
+.tab131{
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 65px;
+}
+.tab132{
+    position: absolute;
+    margin-top: 260px;
+    margin-left: 65px;  
+}
+#tab14{
+    height:300px ;
+    width: 400px;
+    position: absolute;
+    margin-top: 1500px;
+    margin-left: 430px;
+}
+.tab140{
+    position: absolute;
+    margin-left: 60px;
+    border-radius: 10px;
+    height: 207px;
+    width: 300px;
+    object-fit: cover;
+}
+.tab141{
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 65px;
+    width: 300px;
+}
+.tab142{
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 65px;  
+}
+#tab15{
+    height:300px ;
+    width: 400px;
+    position: absolute;
+    margin-top: 1500px;
+    margin-left: 860px;
+}
+.tab150{
+    position: absolute;
+    margin-left: 60px;
+    border-radius: 10px;
+    height: 207px;
+    width: 300px;
+    object-fit: cover;
+}
+.tab151{
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 65px;
+}
+.tab152{
+    position: absolute;
+    margin-top: 260px;
+    margin-left: 65px;  
+}
+#tab16{
+    position: absolute;
+    height: 60px;
+    width: 1260px;
+    margin-top: 1850px;
+}
+.tab160{
+    position: absolute;
+    margin-left: 40px;
+}
+.tab161{
+    position: absolute;
+    margin-left: 1180px;
+}
+#tab17{
+    margin-top: 1920px;
+    height:600px ;
+    width: 600px;
+    position: absolute;
+}
+.tab170{
+    border-radius: 10px;
+    margin-left: 60px;
+    height: 560px;
+    width: 560px;
+    position: absolute;
+    object-fit: cover;
+}
+.tab171{
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 300px;
+}
+.tab172{
+    position: absolute;
+    color: white;
+    margin-left: 80px;
+    margin-top: 340px;
+    width: 490px;
+}
+.tab173{
+    position: absolute;
+    color: white;
+    margin-left: 80px;
+    margin-top: 500px;
+}
+.tab174{
+    position: absolute;
+    margin-left: 520px;
+    margin-top: 480px;
+}
+.tab175{
+    position: absolute;
+    color: white;
+    margin-left: 520px;
+    margin-top: 520px;
+}
+#tab18{
+    position: absolute;
+    height: 180px;
+    width: 580px;
+    background-color:white;
+    border-radius: 10px;
+    margin-top: 1920px;
+    margin-left: 650px;
+}
+.tab180{
+    border-radius: 10px;
+    position: absolute;
+    height: 180px;
+    width: 230px;
+}
+.tab181{
+    position: absolute;
+    margin-left: 260px;
+    margin-top: 20px;
+}
+.tab182{
+    position: absolute;
+    margin-left: 255px;
+    margin-top: 60px;
+}
+.tab183{
+    position: absolute;
+    margin-left: 255px;
+    margin-top: 120px;
+}
+.tab184{
+    position: absolute;
+    margin-left: 490px;
+    margin-top: 100px;
+}
+.tab185{
+    position: absolute;
+    margin-left: 490px;
+    margin-top: 135px;
+}
+#tab19{
+    position: absolute;
+    height: 180px;
+    width: 580px;
+    background-color:white;
+    border-radius: 10px;
+    margin-top: 2110px;
+    margin-left: 650px;
+}
+.tab190{
+    border-radius: 10px;
+    position: absolute;
+    height: 180px;
+    width: 230px;
+}
+.tab191{
+    position: absolute;
+    margin-left: 260px;
+    margin-top: 20px;
+}
+.tab192{
+    position: absolute;
+    margin-left: 255px;
+    margin-top: 60px;
+}
+.tab193{
+    position: absolute;
+    margin-left: 255px;
+    margin-top: 120px;
+}
+.tab194{
+    position: absolute;
+    margin-left: 490px;
+    margin-top: 100px;
+}
+.tab195{
+    position: absolute;
+    margin-left: 490px;
+    margin-top: 135px;
+}
+#tab20{
+    position: absolute;
+    height: 180px;
+    width: 580px;
+    background-color:white;
+    border-radius: 10px;
+    margin-top: 2300px;
+    margin-left: 650px;
+}
+.tab200{
+    border-radius: 10px;
+    position: absolute;
+    height: 180px;
+    width: 230px;
+}
+.tab201{
+    position: absolute;
+    margin-left: 260px;
+    margin-top: 20px;
+}
+.tab202{
+    position: absolute;
+    margin-left: 255px;
+    margin-top: 60px;
+}
+.tab203{
+    position: absolute;
+    margin-left: 255px;
+    margin-top: 120px;
+}
+.tab204{
+    position: absolute;
+    margin-left: 490px;
+    margin-top: 100px;
+}
+.tab205{
+    position: absolute;
+    margin-left: 490px;
+    margin-top: 135px;
+}
+#tab21{
+    position: absolute;
+    height: 60px;
+    width: 1260px;
+    margin-top: 2550px;
+}
+.tab210{
+    position: absolute;
+    margin-left: 40px;
+}
+.tab211{
+    position: absolute;
+    margin-left: 1180px;
+}
+#tab22{
+    position: absolute;
+    height: 350px;
+    width: 500px;
+    margin-top: 2620px;
+}
+.tab220{
+    position: absolute;
+    max-width: 70%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-left: 60px;
+}
+.tab221{
+    position: absolute;
+    margin-left: 60px;
+    margin-top: 250px;
+}
+.tab222{
+    position: absolute;
+    margin-left: 60px;
+    margin-top: 280px;
+}
+.tab223{
+    position: absolute;
+    margin-left: 60px;
+    margin-top: 320px;
+}
+#tab23{
+    position: absolute;
+    height: 350px;
+    width: 500px;
+    margin-top: 2620px;
+}
+.tab230{
+    position: absolute;
+    width: 350px;
+    height: 197px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-left: 470px;
+}
+.tab231{
+    position: absolute;
+    margin-left: 470px;
+    margin-top: 250px;
+    width: 130px;
+}
+.tab232{
+    position: absolute;
+    margin-left: 470px;
+    margin-top: 280px;
+    width: 300px;
+}
+.tab233{
+    position: absolute;
+    margin-left: 470px;
+    margin-top: 320px;
+    width: 200px;
+}
+#tab24{
+    position: absolute;
+    height: 350px;
+    width: 500px;
+    margin-top: 2620px;
+}
+.tab240{
+    position: absolute;
+    width: 350px;
+    height: 197px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-left: 880px;
+}
+.tab241{
+    position: absolute;
+    margin-left: 880px;
+    margin-top: 250px;
+}
+.tab242{
+    position: absolute;
+    margin-left:880px;
+    margin-top: 280px;
+    width: 300px;
+}
+.tab243{
+    position: absolute;
+    margin-left: 880px;
+    margin-top: 320px;
+    width: 200px;
+}
+.tab244{
+    position: absolute;
+    margin-left: 940px;
+    margin-top: 250px;
+}
+#all{
+    height: 3000px;
+    width: 1260px;
+    background-color:rgb(249,248,253);
+    border-radius: 10px;
+}
+#tab25{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+
+
+
+
+
+
+
