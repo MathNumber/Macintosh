@@ -36,7 +36,7 @@
     border: solid rgb(171,171,171) 1px;
     height: 40px;
     width: 400px;
-    color: rgb(237,236,241);
+    color: rgb(247,246,251);
     border-radius: 10px;
     margin-top: 20px;
 }
@@ -216,10 +216,10 @@ li{
 .tab1{
     position:absolute;
     height: 260px;
-    width: 800px;
+    width: 780px;
     background-color: rgb(116,113,223);
     border-radius: 10px;
-    margin-left: 20px;
+    margin-left: 40px;
     margin-top: 20px;
 }
 .tab11{
@@ -228,15 +228,18 @@ li{
     margin-left: 30px;
     position: relative;
     top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab12{
-    color: white;
+    font-weight: normal;
+    color: rgb(214,213,241);
     margin-top: 30px;
     margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab13{
     position: relative;
-    left: 500px;
+    left: 480px;
     bottom: 140px;
 }
 .tab14{
@@ -261,14 +264,17 @@ li{
     margin-top: 20px;
 }
 .tab21{
+    color: rgb(65,66,98);
     width: 250px;
     margin-top: 20px;
     margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab22{
     color: rgb(90,105,229);
     margin-top: 10px;
     margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab23{
     position: relative;
@@ -282,16 +288,18 @@ li{
     margin-top: 300px;
 }
 .tab31{
-    margin-left: 30px;
+    margin-left: 40px;
     color: rgb(36,44,81);
     width: 500px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab32{
     position: relative;
     bottom: 25px;
-    left: 1170px;
+    left: 1180px;
     width: 80px;
     color: rgb(94,110,232);
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab4{
     position: absolute;
@@ -301,8 +309,8 @@ li{
 }
 .list11{
     border-radius: 10px;
-    margin-left: 20px;
-    width: 1200px;
+    margin-left: 40px;
+    width: 1180px;
     height: 360px;
     background-color: white;
     position: absolute;
@@ -323,20 +331,24 @@ li{
     position: absolute;
     margin-left: 100px;
     width: 190px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab43{
     position: absolute;
     margin-left: 100px;
     margin-top: 45px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab44{
     position: absolute;
     margin-left: 320px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab45{
     position: absolute;
     margin-left: 320px;
     margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab46{
     height: 130px;
@@ -354,20 +366,24 @@ li{
     position: absolute;
     margin-left: 100px;
     width: 190px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab49{
     position: absolute;
     margin-left: 100px;
     margin-top: 45px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab411{
     position: absolute;
     margin-left: 320px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab412{
     position: absolute;
     margin-left: 320px;
     margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab418{
     height: 130px;
@@ -385,20 +401,24 @@ li{
     position: absolute;
     margin-left: 100px;
     width: 190px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab415{
     position: absolute;
     margin-left: 100px;
     margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab416{
     position: absolute;
     margin-left: 320px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab417{
     position: absolute;
     margin-left: 320px;
     margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 } 
 .tab419{
     height: 130px;
@@ -416,20 +436,24 @@ li{
     position: absolute;
     margin-left: 100px;
     width: 190px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab422{
     position: absolute;
     margin-left: 100px;
     margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab423{
     position: absolute;
     margin-left: 320px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab424{
     position: absolute;
     margin-left: 320px;
     margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 } 
 .tab425{
     height: 130px;
@@ -447,20 +471,24 @@ li{
     position: absolute;
     margin-left: 100px;
     width: 190px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab428{
     position: absolute;
     margin-left: 100px;
     margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab429{
     position: absolute;
     margin-left: 320px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab430{
     position: absolute;
     margin-left: 320px;
     margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 } 
 .tab431{
     height: 130px;
@@ -478,20 +506,24 @@ li{
     position: absolute;
     margin-left: 100px;
     width: 190px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab434{
     position: absolute;
     margin-left: 100px;
     margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab435{
     position: absolute;
     margin-left: 320px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab436{
     position: absolute;
     margin-left: 320px;
     margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab437{
     height: 130px;
@@ -509,20 +541,24 @@ li{
     position: absolute;
     margin-left: 100px;
     width: 190px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab440{
     position: absolute;
     margin-left: 100px;
     margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab441{
     position: absolute;
     margin-left: 320px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab442{
     position: absolute;
     margin-left: 320px;
     margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 } 
 .tab443{
     height: 130px;
@@ -540,20 +576,24 @@ li{
     position: absolute;
     margin-left: 100px;
     width: 190px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab446{
     position: absolute;
     margin-left: 100px;
     margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab447{
     position: absolute;
     margin-left: 320px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab448{
     position: absolute;
     margin-left: 320px;
     margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 } 
 .tab449{
     height: 130px;
@@ -571,20 +611,24 @@ li{
     position: absolute;
     margin-left: 100px;
     width: 190px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab452{
     position: absolute;
     margin-left: 100px;
     margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab453{
     position: absolute;
     margin-left: 320px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab454{
     position: absolute;
     margin-left: 320px;
     margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 } 
 #tab5{
     position: absolute;
@@ -595,22 +639,30 @@ li{
 .tab51{
     position: absolute;
     width: 300px;
-    margin-left: 30px;
+    margin-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(36,44,81);
 }
 .tab52{
     position: absolute;
     width: 100px;
     margin-left: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(94,110,232);
 }
 .tab53{
     position: absolute;
     width: 400px;
     margin-left: 680px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(36,44,81);
 }
 .tab54{
     position: absolute;
-    width: 100px;
-    margin-left: 1160px;
+    width: 80px;
+    margin-left: 1180px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(94,110,232);
 }
 #tab6{
     width: 300px;
@@ -637,39 +689,47 @@ li{
     margin-left: 200px;
     width: 60px;
     margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab63{
     position: absolute;
     margin-left: 200px;
     width: 60px;
     margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab64{
     margin-left: 10px;
     margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab65{
     margin-left: 10px;
     margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab66{
     margin-left: 10px;
     margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab67{
     margin-left: 10px;
     position: absolute;
     margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab68{
     position: relative;
     left: 200px;
     bottom: 16px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab69{
     position: relative;
     left: 200px;
     bottom: 3px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #tab7{
     width: 300px;
@@ -696,39 +756,47 @@ li{
     margin-left: 200px;
     width: 60px;
     margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab73{
     position: absolute;
     margin-left: 200px;
     width: 60px;
     margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab74{
     margin-left: 10px;
     margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab75{
     margin-left: 10px;
     margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab76{
     margin-left: 10px;
     margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab77{
     margin-left: 10px;
     position: absolute;
     margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab78{
     position: relative;
     left: 200px;
     bottom: 16px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab79{
     position: relative;
     left: 200px;
     bottom: 3px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #tab8{
     width: 300px;
@@ -755,39 +823,47 @@ li{
     margin-left: 200px;
     width: 60px;
     margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab83{
     position: absolute;
     margin-left: 200px;
     width: 60px;
     margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab84{
     margin-left: 10px;
     margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab85{
     margin-left: 10px;
     margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab86{
     margin-left: 10px;
     margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab87{
     margin-left: 10px;
     position: absolute;
     margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab88{
     position: relative;
     left: 200px;
     bottom: 16px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab89{
     position: relative;
     left: 200px;
     bottom: 3px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #tab9{
     width: 300px;
@@ -814,44 +890,52 @@ li{
     margin-left: 200px;
     width: 60px;
     margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab93{
     position: absolute;
     margin-left: 200px;
     width: 60px;
     margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab94{
     margin-left: 10px;
     margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab95{
     margin-left: 10px;
     margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab96{
     margin-left: 10px;
     margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab97{
     margin-left: 10px;
     position: absolute;
     margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab98{
     position: relative;
     left: 200px;
     bottom: 16px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab99{
     position: relative;
     left: 200px;
     bottom: 3px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #tab10{
     position: absolute;
     height: 232.4px;
-    width: 560px;
+    width: 540px;
     border-radius: 10px;
     margin-top: 860px;
     margin-left: 680px;
@@ -868,11 +952,13 @@ li{
     position: absolute;
     margin-top: 60px;
     margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab103{
     position: absolute;
     margin-top: 110px;
     margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #tab11{
     position: absolute;
@@ -890,12 +976,16 @@ li{
 .tab111{
     position: absolute;
     width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(36,44,81);
 }
 .tab112{
     position: absolute;
     margin-left: 500px;
     width: 60px;
     margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(94,110,232);
 }
 .tab113{
     position: absolute;
@@ -912,22 +1002,26 @@ li{
     position: relative;
     bottom:60px;
     right: 100px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab116{
     position: relative;
     bottom:50px ;
     right: 100px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab117{
     position: relative;
     left:270px;
     bottom: 100px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab118{
     position: relative;
     left: 270px;
     bottom:80px;
     width: 60px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab119{
     position: absolute;
@@ -944,22 +1038,26 @@ li{
     position: relative;
     bottom:60px;
     right: 100px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab122{
     position: relative;
     bottom:50px ;
     right: 100px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab123{
     position: relative;
     left:270px;
     bottom: 100px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab124{
     position: relative;
     left: 270px;
     bottom:80px;
     width: 60px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #tab12{
     position: absolute;
@@ -970,10 +1068,14 @@ li{
 .tab1200{
     position: absolute;
     margin-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(36,44,81);
 }
 .tab1210{
     position: absolute;
     margin-left: 1180px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(94,110,232);
 }
 #tab13{
     height:300px ;
@@ -983,18 +1085,22 @@ li{
 }
 .tab130{
     position: absolute;
-    margin-left: 60px;
+    margin-left: 40px;
     border-radius: 10px;
+    width: 320px;
+    height: 207px;
 }
 .tab131{
     position: absolute;
     margin-top: 230px;
-    margin-left: 65px;
+    margin-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab132{
     position: absolute;
     margin-top: 260px;
-    margin-left: 65px;  
+    margin-left: 40px; 
+    font-family: Arial, Helvetica, sans-serif; 
 }
 #tab14{
     height:300px ;
@@ -1008,19 +1114,21 @@ li{
     margin-left: 60px;
     border-radius: 10px;
     height: 207px;
-    width: 300px;
+    width: 305px;
     object-fit: cover;
 }
 .tab141{
     position: absolute;
     margin-top: 230px;
-    margin-left: 65px;
+    margin-left: 60px;
     width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab142{
     position: absolute;
     margin-top: 280px;
-    margin-left: 65px;  
+    margin-left: 60px;  
+    font-family: Arial, Helvetica, sans-serif;
 }
 #tab15{
     height:300px ;
@@ -1031,21 +1139,23 @@ li{
 }
 .tab150{
     position: absolute;
-    margin-left: 60px;
+    margin-left: 65px;
     border-radius: 10px;
     height: 207px;
-    width: 300px;
+    width: 305px;
     object-fit: cover;
 }
 .tab151{
     position: absolute;
     margin-top: 230px;
     margin-left: 65px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab152{
     position: absolute;
     margin-top: 260px;
-    margin-left: 65px;  
+    margin-left: 65px; 
+    font-family: Arial, Helvetica, sans-serif; 
 }
 #tab16{
     position: absolute;
@@ -1056,10 +1166,14 @@ li{
 .tab160{
     position: absolute;
     margin-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(36,44,81);
 }
 .tab161{
     position: absolute;
     margin-left: 1180px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(94,110,232);
 }
 #tab17{
     margin-top: 1920px;
@@ -1069,7 +1183,7 @@ li{
 }
 .tab170{
     border-radius: 10px;
-    margin-left: 60px;
+    margin-left: 40px;
     height: 560px;
     width: 560px;
     position: absolute;
@@ -1077,32 +1191,37 @@ li{
 }
 .tab171{
     position: absolute;
-    margin-left: 80px;
+    margin-left: 60px;
     margin-top: 300px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab172{
     position: absolute;
     color: white;
-    margin-left: 80px;
+    margin-left: 60px;
     margin-top: 340px;
     width: 490px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab173{
     position: absolute;
     color: white;
-    margin-left: 80px;
+    margin-left: 60px;
     margin-top: 500px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab174{
     position: absolute;
-    margin-left: 520px;
+    margin-left: 500px;
     margin-top: 480px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab175{
     position: absolute;
     color: white;
-    margin-left: 520px;
+    margin-left: 500px;
     margin-top: 520px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #tab18{
     position: absolute;
@@ -1123,26 +1242,31 @@ li{
     position: absolute;
     margin-left: 260px;
     margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab182{
     position: absolute;
     margin-left: 255px;
     margin-top: 60px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab183{
     position: absolute;
     margin-left: 255px;
     margin-top: 120px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab184{
     position: absolute;
     margin-left: 490px;
     margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab185{
     position: absolute;
     margin-left: 490px;
     margin-top: 135px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #tab19{
     position: absolute;
@@ -1163,26 +1287,31 @@ li{
     position: absolute;
     margin-left: 260px;
     margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab192{
     position: absolute;
     margin-left: 255px;
     margin-top: 60px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab193{
     position: absolute;
     margin-left: 255px;
     margin-top: 120px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab194{
     position: absolute;
     margin-left: 490px;
     margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab195{
     position: absolute;
     margin-left: 490px;
     margin-top: 135px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #tab20{
     position: absolute;
@@ -1203,26 +1332,31 @@ li{
     position: absolute;
     margin-left: 260px;
     margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab202{
     position: absolute;
     margin-left: 255px;
     margin-top: 60px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab203{
     position: absolute;
     margin-left: 255px;
     margin-top: 120px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab204{
     position: absolute;
     margin-left: 490px;
     margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab205{
     position: absolute;
     margin-left: 490px;
     margin-top: 135px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #tab21{
     position: absolute;
@@ -1233,10 +1367,14 @@ li{
 .tab210{
     position: absolute;
     margin-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(36,44,81);
 }
 .tab211{
     position: absolute;
     margin-left: 1180px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(94,110,232);
 }
 #tab22{
     position: absolute;
@@ -1250,22 +1388,25 @@ li{
     height: auto;
     object-fit: cover;
     border-radius: 10px;
-    margin-left: 60px;
+    margin-left: 40px;
 }
 .tab221{
     position: absolute;
-    margin-left: 60px;
+    margin-left: 40px;
     margin-top: 250px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab222{
     position: absolute;
-    margin-left: 60px;
+    margin-left: 40px;
     margin-top: 280px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab223{
     position: absolute;
-    margin-left: 60px;
+    margin-left: 40px;
     margin-top: 320px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #tab23{
     position: absolute;
@@ -1279,25 +1420,28 @@ li{
     height: 197px;
     object-fit: cover;
     border-radius: 10px;
-    margin-left: 470px;
+    margin-left: 460px;
 }
 .tab231{
     position: absolute;
-    margin-left: 470px;
+    margin-left: 460px;
     margin-top: 250px;
     width: 130px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab232{
     position: absolute;
-    margin-left: 470px;
+    margin-left: 460px;
     margin-top: 280px;
     width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab233{
     position: absolute;
-    margin-left: 470px;
+    margin-left: 460px;
     margin-top: 320px;
     width: 200px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #tab24{
     position: absolute;
@@ -1317,23 +1461,27 @@ li{
     position: absolute;
     margin-left: 880px;
     margin-top: 250px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab242{
     position: absolute;
     margin-left:880px;
     margin-top: 280px;
     width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab243{
     position: absolute;
     margin-left: 880px;
     margin-top: 320px;
     width: 200px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tab244{
     position: absolute;
     margin-left: 940px;
     margin-top: 250px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #all{
     height: 3000px;
@@ -1345,6 +1493,7 @@ li{
     display: flex;
     justify-content: center;
     margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 
