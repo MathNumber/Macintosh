@@ -337,7 +337,7 @@ li{
     height: 50px;
     width: 100%;
     position: absolute;
-    top: 45%;
+    top: 330px;
 }
 .tab31{
     margin-left: 3%;
@@ -355,13 +355,13 @@ li{
 }
 .tab4{
     position: absolute;
-    top: 53%;
+    top: 380px;
     height: 400px;
     width: 100%;
 }
 .list11{
     border-radius: 10px;
-    margin-left: 40px;
+    margin-left: 3%;
     width: 94%;
     height: 360px;
     background-color: white;
@@ -1179,9 +1179,8 @@ li{
 .tab101{
     position: absolute;
     margin-top: 30px;
-    margin-left: 280px;
-    max-width: 50%;
-    height: auto;
+    margin-left: 260px;
+    height: 200px;
 }
 .tab102{
     position: absolute;
@@ -1200,15 +1199,15 @@ li{
 #tab11{
     position: absolute;
     margin-top: 1100px;
-    margin-left: 71%;
+    margin-left: 57%;
     height: 300px;
-    width:360px 
+    width:40%;
 }
 .tab110{
-    position: relative;
-    width: 200px;
-    right: 210px;
-    top: 40px;
+    position: absolute;
+    width: 300px;
+    top: 1130px;
+    left: 54%;
 }
 .tab111{
     position: absolute;
@@ -1218,7 +1217,7 @@ li{
 }
 .tab112{
     position: absolute;
-    margin-left: 240%;
+    left: 160%;
     width: 60px;
     margin-top: 10px;
     font-family: Arial, Helvetica, sans-serif;
@@ -1227,6 +1226,7 @@ li{
 .tab113{
     position: absolute;
     margin-top: 100px;
+    left: 34%;
 }
 .tab114{
     height: 70px;
@@ -1275,6 +1275,7 @@ li{
 .tab119{
     position: absolute;
     margin-top: 212px;
+    left: 34%;
 }
 .tab120{
     height: 70px;
@@ -1342,11 +1343,11 @@ li{
     height:300px ;
     width: 30%;
     position: absolute;
+    left: 3%;
     margin-top: 1500px;
 }
 .tab130{
     position: absolute;
-    margin-left: 40px;
     border-radius: 10px;
     width: 320px;
     height: 207px;
@@ -1354,14 +1355,12 @@ li{
 .tab131{
     position: absolute;
     margin-top: 230px;
-    margin-left: 40px;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(56,62,95);
 }
 .tab132{
     position: absolute;
-    margin-top: 260px;
-    margin-left: 40px; 
+    margin-top: 260px; 
     font-family: Arial, Helvetica, sans-serif; 
     color: rgb(165,165,181);
 }
@@ -1370,11 +1369,10 @@ li{
     width: 30%;
     position: absolute;
     margin-top: 1500px;
-    margin-left: 34%;
+    margin-left: 38%;
 }
 .tab140{
     position: absolute;
-    margin-left: 60px;
     border-radius: 10px;
     height: 207px;
     width: 305px;
@@ -1383,44 +1381,38 @@ li{
 .tab141{
     position: absolute;
     margin-top: 230px;
-    margin-left: 60px;
     width: 300px;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(56,62,95);
 }
 .tab142{
     position: absolute;
-    margin-top: 280px;
-    margin-left: 60px;  
+    margin-top: 280px; 
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(165,165,181);
 }
 #tab15{
     height:300px ;
-    width: 30%;
+    width: 27%;
     position: absolute;
     margin-top: 1500px;
-    margin-left: 68%;
+    margin-left: 71%;
 }
 .tab150{
     position: absolute;
-    margin-left: 65px;
     border-radius: 10px;
     height: 207px;
-    width: 305px;
     object-fit: cover;
 }
 .tab151{
     position: absolute;
     margin-top: 230px;
-    margin-left: 65px;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(56,62,95);
 }
 .tab152{
     position: absolute;
     margin-top: 260px;
-    margin-left: 65px; 
     font-family: Arial, Helvetica, sans-serif; 
     color: rgb(165,165,181);
 }
@@ -1458,7 +1450,7 @@ li{
 }
 .tab171{
     position: absolute;
-    margin-left: 60px;
+    margin-left: 10%;
     margin-top: 300px;
     font-family: Arial, Helvetica, sans-serif;
     border-radius: 10px;
@@ -1472,7 +1464,7 @@ li{
 .tab172{
     position: absolute;
     color: white;
-    margin-left: 60px;
+    margin-left: 10%;
     margin-top: 340px;
     width: 490px;
     font-family: Arial, Helvetica, sans-serif;
@@ -1483,7 +1475,7 @@ li{
 .tab173{
     position: absolute;
     color: white;
-    margin-left: 60px;
+    margin-left: 10%;
     margin-top: 500px;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(165,165,181);
@@ -1738,6 +1730,8 @@ li{
     height: 350px;
     width: 500px;
     margin-top: 2620px;
+    left: 3%;
+
 }
 .tab220{
     position: absolute;
@@ -1745,7 +1739,6 @@ li{
     height: auto;
     object-fit: cover;
     border-radius: 10px;
-    margin-left: 8%;
     color: white;
 }
 .tab220:hover{
@@ -1753,7 +1746,6 @@ li{
 }
 .tab221{
     position: absolute;
-    margin-left: 8%;
     margin-top: 250px;
     font-family: Arial, Helvetica, sans-serif;
     border-radius: 10px;
@@ -1767,7 +1759,6 @@ li{
 }
 .tab222{
     position: absolute;
-    margin-left: 8%;
     margin-top: 280px;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(56,62,95);
@@ -1777,7 +1768,6 @@ li{
 }
 .tab223{
     position: absolute;
-    margin-left: 8%;
     margin-top: 320px;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(80,80,80);
