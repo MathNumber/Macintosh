@@ -1362,10 +1362,10 @@ li{
     margin-top: 1500px;
 }
 .tab130{
+    width: 82%;
+    height: 70%;
     position: absolute;
     border-radius: 10px;
-    width: 320px;
-    height: 207px;
 }
 .tab131{
     position: absolute;
@@ -1387,10 +1387,10 @@ li{
     margin-left: 38%;
 }
 .tab140{
+    width: 82%;
+    height: 70%;
     position: absolute;
     border-radius: 10px;
-    height: 207px;
-    width: 305px;
     object-fit: cover;
 }
 .tab141{
@@ -1411,13 +1411,14 @@ li{
     width: 27%;
     position: absolute;
     margin-top: 1500px;
-    margin-left: 71%;
+    margin-left: 72.5%;
 }
 .tab150{
     position: absolute;
     border-radius: 10px;
-    height: 207px;
     object-fit: cover;
+    width: 88%;
+    height: 70%;
 }
 .tab151{
     position: absolute;
@@ -1458,8 +1459,8 @@ li{
 .tab170{
     border-radius: 10px;
     margin-left: 6%;
-    height: 560px;
-    width: 560px;
+    height: 562px;
+    width: 93%;
     position: absolute;
     object-fit: cover;
 }
@@ -1748,15 +1749,15 @@ li{
 #tab22{
     position: absolute;
     height: 350px;
-    width: 500px;
+    width: 30%;
     margin-top: 2620px;
     left: 3%;
 
 }
 .tab220{
     position: absolute;
-    max-width: 70%;
-    height: auto;
+    width: 92%;
+    height: 56%;
     object-fit: cover;
     border-radius: 10px;
     color: white;
@@ -1796,14 +1797,14 @@ li{
 #tab23{
     position: absolute;
     height: 350px;
-    width: 500px;
+    width: 30%;
     margin-top: 2620px;
     margin-left: 36.5%;
 }
 .tab230{
     position: absolute;
-    width: 350px;
-    height: 197px;
+    width: 92%;
+    height: 56%;
     object-fit: cover;
     border-radius: 10px;
 }
@@ -1845,14 +1846,14 @@ li{
 #tab24{
     position: absolute;
     height: 350px;
-    width: 300px;
+    width: 30%;
     margin-top: 2620px;
     margin-left: 70%;
 }
 .tab240{
     position: absolute;
-    width: 350px;
-    height: 197px;
+    width: 92%;
+    height: 56%;
     object-fit: cover;
     border-radius: 10px;
 }
